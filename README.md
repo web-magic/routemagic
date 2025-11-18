@@ -102,13 +102,20 @@ Routing, geocoding, and map rendering depend on online map services; viewing sav
 *Interface previews of RouteMagic, based on final mobile UI design.*
 
 <p align="center">
-  <img src="./assets/routemagic-my-routes-mockup.png" width="260" alt="RouteMagic mobile interface — list of saved delivery routes with summary metrics.">
-  <img src="./assets/routemagic-create-route-mockup.png" width="260" alt="RouteMagic mobile interface — create new route with departure point and multiple stops.">
-  <img src="./assets/routemagic-route-view-mockup.png" width="260" alt="RouteMagic mobile interface — route visualized on map with distance, time, and reuse options.">
+  <img src="./assets/routemagic-my-routes.png" width="260" alt="RouteMagic mobile interface — list of saved delivery routes with summary metrics">
+  <img src="./assets/routemagic-create-route.png" width="260" alt="RouteMagic mobile interface — create new route with departure point and multiple stops">
 </p>
 
 <p align="center" style="font-size: 14px;">
-  From routes list to route creation and map-based route review.
+  Routes list and route creation screens.
+</p>
+
+<p align="center">
+  <img src="./assets/routemagic-route-view.png" width="320" alt="RouteMagic mobile interface — route visualized on a map with distance and time summary">
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Map-based route view with distance and estimated travel time.
 </p>
 
 
