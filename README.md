@@ -103,8 +103,8 @@ Routing, geocoding, and map rendering depend on online map services; viewing sav
 *Interface previews of RouteMagic, based on final mobile UI design.*
 
 <p align="center">
-  <img src="./assets/routemagic-my-routes.png" width="260" alt="RouteMagic mobile interface — list of saved delivery routes with summary metrics">
-  <img src="./assets/routemagic-create-route.png" width="260" alt="RouteMagic mobile interface — create new route with departure point and multiple stops">
+  <img src="./assets/routemagic-my-routes.png" width="360" alt="RouteMagic mobile interface — list of saved delivery routes with summary metrics">
+  <img src="./assets/routemagic-create-route.png" width="360" alt="RouteMagic mobile interface — create new route with departure point and multiple stops">
 </p>
 
 <p align="center" style="font-size: 14px;">
@@ -112,7 +112,7 @@ Routing, geocoding, and map rendering depend on online map services; viewing sav
 </p>
 
 <p align="center">
-  <img src="./assets/routemagic-route-view.png" width="320" alt="RouteMagic mobile interface — route visualized on a map with distance and time summary">
+  <img src="./assets/routemagic-route-view.png" width="380" alt="RouteMagic mobile interface — route visualized on a map with distance and time summary">
 </p>
 
 <p align="center" style="font-size: 14px;">
