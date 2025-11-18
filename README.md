@@ -131,8 +131,8 @@ Further source code or build artifacts can be shared or extended as part of clie
 
 ## Related Projects
 
-- [WordWave](https://github.com/webmagic-agency/wordwave) – AI video-to-text transcription SaaS  
-- [CargoMagic](https://github.com/webmagic-agency/cargomagic) – desktop cargo volume and load planning tool  
+- [WordWave](https://github.com/web-magic/wordwave) – AI video-to-text transcription SaaS  
+- [CargoMagic](https://github.com/web-magic/cargomagic) – desktop cargo volume and load planning tool  
 
 
 
