@@ -3,7 +3,8 @@
 Mobile application for route planning, delivery sequencing, and basic logistics visibility.  
 **Built with Flutter (Dart)** — designed as a client-side demo for delivery and field operations.
 
-
+**Available on Google Play:**  
+[RouteMagic](https://play.google.com/store/apps/details?id=com.webmagic.routemagic)
 
 ## Overview
 RouteMagic helps drivers and operations teams build and review delivery routes on an interactive map.  
